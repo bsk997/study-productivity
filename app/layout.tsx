@@ -15,7 +15,8 @@ export const metadata: Metadata = {
   description:
     "실천 가능한 공부 팁과 생산성 도구를 제공하는 서비스. 오늘의 공부 효율을 1% 높여보세요.",
   verification: {
-    google:<meta name="google-site-verification" content="ehNGeqyh4GXiRs3_Dfpek5RPt3h1-WbyB8N_5p-hy2E" />,
+    google: "ehNGeqyh4GXiRs3_Dfpek5RPt3h1-WbyB8N_5p-hy2E",
+  },
 };
 
 export const viewport: Viewport = {
